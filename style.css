@@ -1,0 +1,19 @@
+.box {
+  position: absolute;
+  animation: leyla 1s infinite;
+}
+
+@keyframes leyla {
+  0% {
+    top: 0;
+    left: 0;
+  }
+  50% {
+    top: 0;
+    left: 200px;
+  }
+  100% {
+    top: 0;
+    left: 0;
+  }
+}/*# sourceMappingURL=style.css.map */
